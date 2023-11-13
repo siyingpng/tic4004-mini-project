@@ -14,10 +14,10 @@
 ## Setup
 
 1. **Clone the repositorys**:
-  - git clone https://github.com/siyingpng/tic4004-mini-project
+   - git clone https://github.com/siyingpng/tic4004-mini-project
 
 2. **Install project dependencies**:
-  - pip install -r requirements.txt
+   - pip install -r requirements.txt
 
 3. **Run the script**:
-  - python ui_automation.py
+   - pytest -v ui_automation.py

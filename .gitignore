@@ -4,3 +4,5 @@ env/
 
 # Ignore log files
 *.log
+
+__pycache__/
